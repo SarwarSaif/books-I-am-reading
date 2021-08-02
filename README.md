@@ -4,10 +4,7 @@ Here I'll collect all the books summary I will read.
 # Table of contents
 1. [The 7 Habits of Highly Effective People](#7habitsofeffective)
     1. [Summary](#sub1-7habitsofeffective)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
+    2. 
 ## The 7 Habits of Highly Effective People. <a name="7habitsofeffective"></a>
 Some introduction text, formatted in heading 2 style
 
